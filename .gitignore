@@ -1,0 +1,18 @@
+# secrets
+.env
+*.har
+
+# personal data
+/data/
+Timeline.json
+location-history.json
+Records.json
+places.geojson
+
+# python
+.venv/
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.egg-info/
